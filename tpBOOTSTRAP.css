@@ -1,0 +1,99 @@
+.container-main a{
+    text-decoration: none;
+    padding: 30px;
+   text-transform: uppercase;
+   color:rgb(1, 1, 1);
+
+   font-size: 18px;
+  
+}
+
+.container-main a:hover{
+    color: rgb(21, 24, 125);
+   letter-spacing: 2px;
+    border-bottom: 8px;
+    padding: 12px;
+ 
+}
+.con{
+    position: absolute;
+    padding-left:790px;
+    top: 12px; 
+
+}
+.con1{
+    position: absolute;
+    padding-left:1000px;
+    top: 15px;   
+
+}
+
+.title{
+    color: rgb(15, 14, 14);
+}
+
+.banner{
+    width: 100%;
+  border-radius: 5px;
+  border: 2px solid gray;
+height: 70px;
+    background-color: white;
+    margin-top: 5px;
+}
+.banner .container-main{
+    position: absolute;
+top: 12px; 
+padding-left: 290px;
+
+}
+
+.slogan{
+    width: 100%;
+    height: 150px;
+    border-radius: 5px;
+    border: 2px solid gray;
+    margin-top: 30px;
+}
+.col-4 .btn{
+    margin: 20px;
+ 
+}
+
+.bid-slogan{
+
+
+    width: 100%;
+    height: 230px;
+    border-radius: 5px;
+    border: 2px solid gray;
+    margin-top: 30px;
+}
+.bid-slogan .card{
+    height: 230px;
+}
+.text{
+    border-bottom: 2px;
+    width: 100%;
+    height: 80px;
+    
+    margin-top: 10px;
+}
+.input-group {
+    margin-top: 10px;
+    
+}
+.MOI{
+    background-color: rgb(194, 232, 239);
+    border-bottom: rgb(0, 157, 255) 5px;
+    border-radius: 5px;
+}
+.MOI:hover{
+    border: 5px blue;
+    color: green;
+}
+.bt{
+   
+    padding-left:600px;
+   margin-top: -38px;
+
+}
